@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python language and some programing.
 - 💞️ I’m looking to collaborate on this medical test proyect.
 - 📫 fell free to reach me ...
-- Love your neighbourd as yourself
+- Love your neighbour as yourself
 - 
 
 <!---
